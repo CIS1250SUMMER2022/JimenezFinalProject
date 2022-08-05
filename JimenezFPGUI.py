@@ -3,6 +3,12 @@
 # Email: mjimenez43@cnm.edu
 # Purpose: To create a password manager
 
+# So I tried to implement as much as I could from previous lessons. Created a class and objects and all that good stuff.
+# What I created was a password manager. When you start it, it will ask for a master password. Once you enter one in, it 
+# will "remember" it and you will need to use that same password in order to get in after that. Once in you can add some
+# passwords and accounts and then you can view them. Thanks for everything Eli. I wish you and your family the best.
+# Good luck in Nebraska
+
 import tkinter as tk
 from tkinter import *
 import tkinter.messagebox as mb
